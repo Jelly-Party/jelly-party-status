@@ -4,9 +4,9 @@
     "url": "https://www.jelly-party.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jelly-party.com.ico",
     "slug": "jelly-party-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 135,
     "timeMonth": 126,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Jelly Party Server",
