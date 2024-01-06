@@ -4,19 +4,19 @@
     "url": "https://www.jelly-party.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jelly-party.com.ico",
     "slug": "jelly-party-website",
-    "status": "up",
-    "uptime": "51.01%",
+    "status": "down",
+    "uptime": "50.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.01%",
+    "uptimeYear": "50.90%",
     "time": 123,
     "timeDay": 92,
     "timeWeek": 159,
     "timeMonth": 128,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-01-06": 74,
+      "2024-01-06": 765,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -133,7 +133,7 @@
     "url": "ws.jelly-party.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jelly-party-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -144,6 +144,8 @@
     "timeWeek": 155,
     "timeMonth": 150,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   }
 ]
